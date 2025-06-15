@@ -1,8 +1,15 @@
 # Tangkap Aku
 
-## Demo
+## Steps to Run the Game
 
-Demo game link: [Demo](https://youtu.be/5zTNhEWv5Ho?si=lJSGKzacdKyXDcCV)
+1. Select the Python file (pemograman-python.py).  
+   ![Step 1](step-1.png)
+
+2. Right-click to open the menu and choose "Run".  
+   ![Step 2](step-2.png)
+
+3. Click to start the game.  
+   ![Step 3](step-3.png)
 
 Tangkap Aku is a fun and challenging Python game built with Pygame where the player controls a bar to catch falling objects. The goal is to catch as many objects as possible without losing all your lives. The game features increasing difficulty, sound effects, particle animations, and a simple but engaging gameplay loop.
 
@@ -57,6 +64,7 @@ Enjoy playing Tangkap Aku!
 ## Credits
 
 Created by Kelompok PBL-115:
+
 - Berkat Tua Siallagan
 - Adhyca Hafeez Wibowo
 - Nayla Nur Nabila
