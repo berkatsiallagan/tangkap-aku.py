@@ -11,6 +11,9 @@
 3. Click to start the game.  
    ![Step 3](step-3.png)
 
+4. In Game/
+   ![In Game](step-4.png)
+
 Tangkap Aku is a fun and challenging Python game built with Pygame where the player controls a bar to catch falling objects. The goal is to catch as many objects as possible without losing all your lives. The game features increasing difficulty, sound effects, particle animations, and a simple but engaging gameplay loop.
 
 ## How to Play
